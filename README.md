@@ -7,9 +7,9 @@
 4. **Feature Engineering:** Feature engineering is done for scaling, normalization on numerical variables and encoding on categorical variables.
 
 **Algorithms used:**
-1. **Regression:** Linear Regression,Lasso Regression,Ridge Regression, Support Vector Machine regression,Decision Tree Regression,Random Forest Regression, Boosting algorithms like XGBoost Regression, AdaBoost ,LightGBM and catBoost.
+1. **Regression:** Linear Regression, Lasso Regression, Ridge Regression, Support Vector Machine regression, Decision Tree Regression, Random Forest Regression, Boosting algorithms like XGBoost Regression, AdaBoost ,LightGBM and catBoost.
 2. **Classification:** Logistic Regression, Naive Bayes Classifier, Decision Tree classifier and Random Forest Classifier.
 3. **Clustering:** K-Means Clustering and Hierarchical Clustering.
 
 **HyperParameter Tuning:**
-1. Used GridSearchCV for getting best suitable values for hyperparameters in  Lasso Regression,Ridge Regression,Decision tree, random forest,XGBoost,Adaboost,Catboost.
+1. Used GridSearchCV for getting best suitable values for hyperparameters in  Lasso Regression, Ridge Regression, Decision tree, random forest, XGBoost, Adaboost and Catboost.
