@@ -11,3 +11,5 @@
 2. **Classification:** Logistic Regression, Naive Bayes Classifier, Decision Tree classifier and Random Forest Classifier.
 3. **Clustering:** K-Means Clustering and Hierarchical Clustering.
 
+**HyperParameter Tuning:**
+1. used GridSearchCV for getting best suitable values for hyperparameters in  Lasso Regression,Ridge Regression,Decision tree, random forest,XGBoost,Adaboost,Catboost.
