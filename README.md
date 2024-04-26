@@ -12,4 +12,7 @@
 3. **Clustering:** K-Means Clustering and Hierarchical Clustering.
 
 **HyperParameter Tuning:**
-1. Used GridSearchCV for getting best suitable values for hyperparameters in  Lasso Regression, Ridge Regression, Decision tree, random forest, XGBoost, Adaboost and Catboost.
+Used GridSearchCV for getting best suitable values for hyperparameters in  Lasso Regression, Ridge Regression, Decision tree, random forest, XGBoost, Adaboost and Catboost.
+
+**Deployment:**
+Used Flask Framework for deployment.
